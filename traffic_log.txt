@@ -1,0 +1,25 @@
+[2025-03-08 15:34:38] 192.160.1.4 -> 192.168.1.1
+Requ�te : [DNS]
+Domaine/URL : www.facebook.com.
+Statut : NORMAL
+Explication : 
+
+[2025-03-08 15:34:38] 192.160.1.4 -> 192.168.1.1
+Requ�te : [DNS]
+Domaine/URL : www.facebook.com.
+Statut : NORMAL
+Explication : 
+
+[2025-03-08 15:34:38] 192.160.1.1 -> 192.168.1.4
+Requ�te : [DNS]
+Domaine/URL : www.facebook.com.
+Statut : NORMAL
+Explication : 
+
+[2025-03-08 15:34:38] 192.160.1.1 -> 192.168.1.4
+Requ�te : [DNS]
+Domaine/URL : www.facebook.com.
+Statut : NORMAL
+Explication : 
+
+
